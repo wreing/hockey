@@ -1,0 +1,6 @@
+
+
+# Overview
+
+Simple Python program for caclulating ELO Rankings for College Hockey Teams.  I tuned the weights for home vs away.  And the results are relitvly predictive for teams in head to head match ups.
+

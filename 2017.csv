@@ -1,0 +1,253 @@
+Date,Opponent,Opp Score,Home,Home Score,OTT,Type
+9/30/16,Simon Fraser,1,Alaska Anchorage,6,0,EX
+10/1/16,Alabama Huntsville,2,Ferris State,1,0,WC
+10/1/16,Army West Point,2,Colgate,2,OT,NC
+10/1/16,Michigan Tech,0,Minnesota Duluth,6,0,NC
+10/1/16,Windsor,2,Bowling Green,3,0,EX
+10/1/16,Prince Edward Island,2,Boston University,10,0,EX
+10/1/16,QuÃ©bec Ã  Trois-RiviÃ¨res,4,Clarkson,3,0,EX
+10/1/16,QC Trois Rivieres,4,Clarkson,3,0,EX
+10/1/16,Mount Royal,1,Denver,4,0,EX
+10/1/16,Carleton,5,Holy Cross,7,0,EX
+10/1/16,Carleton (ON),5,Holy Cross,7,0,EX
+10/1/16,New Brunswick,3,Merrimack,5,0,EX
+10/1/16,Guelph,6,Mercyhurst,2,0,EX
+10/1/16,Regina,3,Minnesota State,5,0,EX
+10/1/16,Waterloo,1,Miami,8,0,EX
+10/1/16,Western Ontario,2,Niagara,1,0,EX
+10/1/16,Acadia,1,Northeastern,3,0,EX
+10/1/16,McGill,1,Quinnipiac,2,0,EX
+10/1/16,Brock,0,RIT,3,0,EX
+10/1/16,Queen's,2,Robert Morris,2,OT,EX
+10/1/16,St. Francis Xavier,4,Connecticut,3,0,EX
+10/1/16,Dalhousie,5,Massachusetts,7,0,EX
+10/1/16,Manitoba,1,North Dakota,5,0,EX
+10/1/16,Concordia (QC),3,Vermont,2,0,EX
+10/1/16,Victoria,1,Wisconsin,10,0,EX
+10/1/16,Toronto,4,Western Michigan,3,0,EX
+10/2/16,Alabama Huntsville,4,Ferris State,3,0,WC
+10/2/16,Michigan Tech,3,Minnesota Duluth,4,0,NC
+10/2/16,Carleton,3,Boston College,4,0,EX
+10/2/16,Carleton (ON),3,Boston College,4,0,EX
+10/2/16,Guelph,6,Canisius,2,0,EX
+10/2/16,Mount Royal,0,Colorado College,3,0,EX
+10/2/16,Laurentian,3,Lake Superior,3,OT,EX
+10/2/16,St. Francis Xavier,6,Maine,5,0,EX
+10/2/16,Toronto,2,Michigan State,2,OT,EX
+10/2/16,USA Under-18 Team,1,Notre Dame,5,0,EX
+10/2/16,Victoria,1,Northern Michigan,10,0,EX
+10/2/16,Wilfrid Laurier,2,Ohio State,9,0,EX
+10/2/16,Acadia,0,Providence,3,0,EX
+10/2/16,Queen's,0,Penn State,8,0,EX
+10/2/16,McGill,0,Rensselaer,3,0,EX
+10/2/16,Regina,2,St. Cloud State,6,0,EX
+10/2/16,Ryerson,4,Sacred Heart,7,0,EX
+10/2/16,QC Trois Rivieres,1,St. Lawrence,4,0,EX
+10/2/16,QuÃ©bec Ã  Trois-RiviÃ¨res,1,St. Lawrence,4,0,EX
+10/2/16,Simon Fraser,0,Alaska,2,0,EX
+10/2/16,Windsor,0,Michigan,2,0,EX
+10/2/16,Prince Edward Island,0,UMass Lowell,7,0,EX
+10/2/16,New Brunswick,1,New Hampshire,3,0,EX
+10/3/16,Mount Royal,1,Air Force,5,0,EX
+10/6/16,Western Michigan,5,Ferris State,3,0,NC
+10/6/16,St. Lawrence,2,Penn State,4,0,NC
+10/6/16,USA Under-18 Team,2,Boston University,8,0,EX
+10/7/16,Sacred Heart,0,Army West Point,4,0,AH
+10/7/16,Holy Cross,8,Niagara,2,0,AH
+10/7/16,Robert Morris,3,RIT,6,0,AH
+10/7/16,Bowling Green,1,Bemidji State,2,0,WC
+10/7/16,Michigan Tech,1,Minnesota State,3,0,WC
+10/7/16,Air Force,2,Boston College,1,0,NC
+10/7/16,Vermont,5,Clarkson,2,0,NC
+10/7/16,Ohio State,3,Denver,2,0,NC
+10/7/16,Rensselaer,1,Maine,5,0,NC
+10/7/16,Arizona State,2,Notre Dame,9,0,NC
+10/7/16,Wisconsin,2,Northern Michigan,3,0,NC
+10/7/16,Miami,3,Providence,4,0,NC
+10/7/16,St. Lawrence,6,Penn State,3,0,NC
+10/7/16,Northeastern,2,Quinnipiac,2,OT,NC
+10/7/16,Minnesota,6,Alaska Anchorage,0,0,NC
+10/7/16,Alabama Huntsville,0,Connecticut,6,0,NC
+10/7/16,Union,4,Michigan,3,0,NC
+10/7/16,Colorado College,0,Massachusetts,3,0,NC
+10/7/16,Minnesota Duluth,4,UMass Lowell,4,OT,NC
+10/7/16,Canisius,0,North Dakota,6,0,NC
+10/7/16,Ferris State,1,Western Michigan,2,0,NC
+10/8/16,Holy Cross,4,Niagara,4,OT,AH
+10/8/16,Robert Morris,6,RIT,5,0,AH
+10/8/16,Bowling Green,1,Bemidji State,4,0,WC
+10/8/16,Michigan Tech,0,Minnesota State,4,0,WC
+10/8/16,Boston University,6,Colgate,1,0,NC
+10/8/16,Rensselaer,2,Maine,4,0,NC
+10/8/16,Arizona State,2,Notre Dame,4,0,NC
+10/8/16,Wisconsin,6,Northern Michigan,5,0,NC
+10/8/16,Miami,2,Providence,1,0,NC
+10/8/16,Northeastern,2,Quinnipiac,5,0,NC
+10/8/16,Alaska,4,Alaska Anchorage,1,0,NC
+10/8/16,Alabama Huntsville,0,Connecticut,4,0,NC
+10/8/16,Union,0,Michigan,4,0,NC
+10/8/16,Colorado College,7,Massachusetts,4,0,NC
+10/8/16,Minnesota Duluth,1,UMass Lowell,1,OT,NC
+10/8/16,Canisius,1,North Dakota,4,0,NC
+10/8/16,Bentley,5,New Hampshire,1,0,NC
+10/8/16,Clarkson,3,Vermont,2,0,NC
+10/8/16,Ohio State,3,Air Force,3,OT,NC
+10/8/16,Boston College,3,Denver,1,0,NC
+10/8/16,USA Under-18 Team,2,Harvard,5,0,EX
+10/8/16,Alberta,3,Omaha,2,0,EX
+10/9/16,Sacred Heart,2,Merrimack,1,0,NC
+10/9/16,Minnesota,6,Alaska,3,0,NC
+10/14/16,Sacred Heart,0,Army West Point,3,0,AH
+10/14/16,Alabama Huntsville,3,Michigan Tech,7,0,WC
+10/14/16,Bemidji State,2,Northern Michigan,0,0,WC
+10/14/16,Union,5,American International,4,0,NC
+10/14/16,Air Force,4,Arizona State,3,0,NC
+10/14/16,Northeastern,1,Bentley,1,OT,NC
+10/14/16,Western Michigan,4,Bowling Green,4,OT,NC
+10/14/16,UMass Lowell,8,Colorado College,5,0,NC
+10/14/16,Merrimack,0,Clarkson,4,0,NC
+10/14/16,Connecticut,4,Colgate,4,OT,NC
+10/14/16,Boston University,3,Denver,4,0,NC
+10/14/16,Michigan State,1,Lake Superior,6,0,NC
+10/14/16,Quinnipiac,3,Maine,4,OT,NC
+10/14/16,Penn State,7,Mercyhurst,0,0,NC
+10/14/16,St. Cloud State,1,Minnesota State,4,0,NC
+10/14/16,New Hampshire,2,St. Lawrence,6,0,NC
+10/14/16,Notre Dame,3,Minnesota Duluth,4,0,NC
+10/14/16,Boston College,1,Wisconsin,3,0,NC
+10/14/16,Omaha,3,Alaska Anchorage,1,0,NC
+10/14/16,Canisius,2,Alaska,1,OT,NC
+10/14/16,USA Under-18 Team,0,Minnesota,9,0,EX
+10/15/16,Alabama Huntsville,1,Michigan Tech,1,OT,WC
+10/15/16,Bemidji State,2,Northern Michigan,0,0,WC
+10/15/16,UMass Lowell,4,Colorado College,0,0,NC
+10/15/16,New Hampshire,5,Clarkson,3,0,NC
+10/15/16,Boston University,1,Denver,3,0,NC
+10/15/16,Michigan,2,Ferris State,1,0,NC
+10/15/16,Providence,1,Holy Cross,2,OT,NC
+10/15/16,Michigan State,3,Lake Superior,7,0,NC
+10/15/16,Quinnipiac,3,Maine,2,OT,NC
+10/15/16,St. Cloud State,4,Minnesota State,6,0,NC
+10/15/16,Ohio State,1,Miami,1,OT,NC
+10/15/16,Bentley,3,Northeastern,7,0,NC
+10/15/16,Connecticut,1,RIT,1,OT,NC
+10/15/16,Union,4,Sacred Heart,4,OT,NC
+10/15/16,Merrimack,1,St. Lawrence,4,0,NC
+10/15/16,Notre Dame,3,Minnesota Duluth,1,0,NC
+10/15/16,Rensselaer,2,North Dakota,5,0,NC
+10/15/16,Bowling Green,2,Western Michigan,8,0,NC
+10/15/16,Canisius,0,Alaska Anchorage,1,0,NC
+10/15/16,Omaha,4,Alaska,3,OT,NC
+10/16/16,Air Force,2,Arizona State,5,0,NC
+10/16/16,Boston College,8,Wisconsin,5,0,NC
+10/18/16,Niagara,2,Mercyhurst,4,0,AH
+10/19/16,Connecticut,2,Quinnipiac,5,0,NC
+10/21/16,Bentley,2,Air Force,5,0,AH
+10/21/16,Robert Morris,3,Canisius,6,0,AH
+10/21/16,Northern Michigan,6,Ferris State,4,0,WC
+10/21/16,Minnesota State,7,Alaska,1,0,WC
+10/21/16,Lake Superior,6,Alabama Huntsville,3,0,WC
+10/21/16,Colorado College,1,Boston College,4,0,NC
+10/21/16,Ohio State,5,Bowling Green,4,0,NC
+10/21/16,Sacred Heart,0,Boston University,7,0,NC
+10/21/16,Colgate,3,Merrimack,4,0,NC
+10/21/16,Denver,2,Michigan State,1,0,NC
+10/21/16,Maine,3,Miami,3,OT,NC
+10/21/16,Penn State,3,Notre Dame,3,OT,NC
+10/21/16,Arizona State,2,Northeastern,5,0,NC
+10/21/16,Clarkson,3,Providence,3,OT,NC
+10/21/16,Niagara,3,Rensselaer,3,OT,NC
+10/21/16,RIT,2,Union,5,0,NC
+10/21/16,American International,2,Connecticut,2,OT,NC
+10/21/16,Michigan Tech,3,Michigan,4,0,NC
+10/21/16,Army West Point,2,Massachusetts,3,0,NC
+10/21/16,St. Lawrence,2,UMass Lowell,5,0,NC
+10/21/16,St. Cloud State,6,Minnesota,5,OT,NC
+10/21/16,Bemidji State,2,North Dakota,3,0,NC
+10/21/16,Vermont,4,Omaha,4,OT,NC
+10/21/16,Ontario IT,1,Cornell,3,0,EX
+10/21/16,USA Under-18 Team,3,Wisconsin,4,0,EX
+10/22/16,Bentley,6,Air Force,1,0,AH
+10/22/16,Robert Morris,2,Canisius,2,OT,AH
+10/22/16,Northern Michigan,2,Ferris State,2,OT,WC
+10/22/16,Minnesota State,2,Alaska,4,0,WC
+10/22/16,Lake Superior,5,Alabama Huntsville,2,0,WC
+10/22/16,Quinnipiac,0,Boston University,3,0,NC
+10/22/16,Boston College,6,Holy Cross,1,0,NC
+10/22/16,Colgate,2,Merrimack,5,0,NC
+10/22/16,Denver,3,Michigan State,1,0,NC
+10/22/16,Maine,0,Miami,5,0,NC
+10/22/16,Penn State,3,Notre Dame,2,OT,NC
+10/22/16,Arizona State,1,Northeastern,6,0,NC
+10/22/16,Bowling Green,1,Ohio State,6,0,NC
+10/22/16,St. Lawrence,3,Providence,6,0,NC
+10/22/16,RIT,3,Rensselaer,6,0,NC
+10/22/16,Minnesota,2,St. Cloud State,3,0,NC
+10/22/16,Niagara,2,Union,5,0,NC
+10/22/16,Michigan Tech,3,Michigan,3,OT,NC
+10/22/16,Clarkson,4,UMass Lowell,3,0,NC
+10/22/16,Bemidji State,4,North Dakota,5,0,NC
+10/22/16,Colorado College,4,New Hampshire,3,0,NC
+10/22/16,Vermont,5,Omaha,2,0,NC
+10/22/16,Brock,1,Cornell,8,0,EX
+10/22/16,Harvard,3,Dartmouth,3,0,EX
+10/22/16,USA Under-18 Team,2,Minnesota Duluth,1,0,EX
+10/23/16,Sacred Heart,6,American International,3,0,AH
+10/25/16,Boston College,2,Merrimack,2,OT,HE
+10/25/16,Massachusetts,2,Quinnipiac,3,0,NC
+10/27/16,Connecticut,4,Notre Dame,2,0,HE
+10/28/16,RIT,4,Bentley,1,0,AH
+10/28/16,American International,5,Mercyhurst,3,0,AH
+10/28/16,Army West Point,1,Robert Morris,2,0,AH
+10/28/16,Union,4,Rensselaer,1,0,EC
+10/28/16,Providence,1,Boston College,3,0,HE
+10/28/16,Connecticut,2,Notre Dame,6,0,HE
+10/28/16,New Hampshire,4,Massachusetts,1,0,HE
+10/28/16,Western Michigan,1,Denver,3,0,NT
+10/28/16,North Dakota,2,Minnesota Duluth,5,0,NT
+10/28/16,Alaska Anchorage,1,Bemidji State,2,OT,WC
+10/28/16,Alaska,2,Lake Superior,3,0,WC
+10/28/16,Ferris State,2,Minnesota State,4,0,WC
+10/28/16,Northern Michigan,0,Michigan Tech,2,0,WC
+10/28/16,Harvard,7,Arizona State,0,0,NC
+10/28/16,Minnesota,4,Clarkson,3,OT,NC
+10/28/16,Maine,2,Colgate,2,OT,NC
+10/28/16,Brown,0,Holy Cross,3,0,NC
+10/28/16,Cornell,2,Merrimack,3,0,NC
+10/28/16,Princeton,2,Michigan State,6,0,NC
+10/28/16,Bowling Green,1,Miami,2,OT,NC
+10/28/16,Ohio State,10,Niagara,2,0,NC
+10/28/16,Canisius,1,Penn State,4,0,NC
+10/28/16,Alabama Huntsville,1,St. Cloud State,5,0,NC
+10/28/16,Wisconsin,5,St. Lawrence,2,0,NC
+10/28/16,UMass Lowell,1,Omaha,5,0,NC
+10/28/16,Michigan,0,Vermont,3,0,NC
+10/29/16,RIT,6,Bentley,3,0,AH
+10/29/16,American International,3,Mercyhurst,6,0,AH
+10/29/16,Army West Point,2,Robert Morris,1,0,AH
+10/29/16,Rensselaer,2,Union,3,OT,EC
+10/29/16,Boston College,7,Massachusetts,4,0,HE
+10/29/16,Merrimack,2,New Hampshire,6,0,HE
+10/29/16,Western Michigan,2,Denver,4,0,NT
+10/29/16,North Dakota,0,Minnesota Duluth,3,0,NT
+10/29/16,Alaska Anchorage,0,Bemidji State,4,0,WC
+10/29/16,Alaska,4,Lake Superior,3,OT,WC
+10/29/16,Ferris State,4,Minnesota State,3,0,WC
+10/29/16,Michigan Tech,5,Northern Michigan,1,0,WC
+10/29/16,Harvard,6,Arizona State,2,0,NC
+10/29/16,Wisconsin,5,Clarkson,4,0,NC
+10/29/16,Maine,3,Colgate,5,0,NC
+10/29/16,Michigan,2,Dartmouth,3,0,NC
+10/29/16,Bowling Green,4,Miami,1,0,NC
+10/29/16,Ohio State,6,Niagara,2,0,NC
+10/29/16,Canisius,2,Penn State,4,0,NC
+10/29/16,Alabama Huntsville,2,St. Cloud State,5,0,NC
+10/29/16,Minnesota,2,St. Lawrence,2,OT,NC
+10/29/16,UMass Lowell,4,Omaha,2,0,NC
+10/29/16,Sacred Heart,1,Yale,4,0,NC
+10/29/16,Princeton,5,USA Under-18 Team,4,OT,EX
+10/30/16,Vermont,3,Northeastern,2,0,HE
+10/30/16,Providence,6,Brown,0,0,NC
+11/1/16,Union,4,Holy Cross,6,0,NC
+11/3/16,Holy Cross,2,American International,4,0,AH
+11/3/16,Niagara,1,Penn State,5,0,NC
